@@ -1,0 +1,115 @@
+h1{
+    font-size: 60px;
+    color: blue;
+    line-height: 10px;
+    font-family: SFProDisplay-Regular, helvetica, Arial, sans-serif;
+}
+
+
+.facebook{
+    font-size: 30px;
+    font-family: inherit;
+color:#1c1e21;
+}
+
+.divide{
+    margin-left: 150px;
+    margin-top: 230px;
+}
+
+#container{
+width: 400px;
+border: none;
+height: 380px;
+margin-left: 780px;
+margin-top: 120px;
+box-shadow: 5px;
+background-color: white;
+border-radius: 10px;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.email{
+height: 50px;
+width: 353px;
+margin-top: 15px;
+margin-left: 13px;
+border-radius: 8px;
+font-size: 16px;
+border-width: 0.7px;
+padding-left: 14px;
+border-color: gainsboro;
+}
+
+.password{
+    height: 50px;
+    width: 353px;
+    margin-left: 13px;
+    margin-top: 15px;
+    border-radius: 6px;
+    font-size: 16px;
+    padding-left: 14px;
+    margin-bottom: 10px;
+    border-width: 0.7px;
+    border-color: gainsboro;
+}
+
+.login-btn{
+    height: 52px;
+    width: 369px;
+    border-radius: 6px;
+    margin-top: 15px;
+    margin-left: 13px;
+    font-size: 16px;
+    padding-left: 14px;
+    margin-bottom: 14px;
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+    font-weight: bold;
+    border: none;
+    margin-bottom: 7px;
+}
+
+.account-btn{
+ margin-left: 90px;
+ padding: 10px;
+ font-family: inherit;
+ width: 220px;
+ cursor: pointer;
+ height: 50px;
+ font-size: 18px;
+ border: none;
+ transition: background-color 0.1s;
+    border-radius: 6px;
+    background-color: green;
+    color: white;
+}
+
+.account-btn:hover{
+    background-color: green;
+}
+    .paragraph1{
+    text-align: center;
+    color:blue;
+    font-size: 17px;
+    cursor: pointer;
+     
+    }
+
+    .paragraph2{
+font-size: 17px;
+text-align: right;
+
+    }
+
+    hr{
+        width: 355px;
+        margin-bottom: 27px;
+    }
+
+    
